@@ -116,7 +116,7 @@ This project is open source under the MIT License.
 
 ## 👤 Author
 
-**Govinda** - [GitHub](https://github.com/Govinda2809)
+**Kishor Kakde**
 
 ---
 
